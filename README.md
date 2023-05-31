@@ -2,7 +2,7 @@ AI-SUMMER INTERNSHIP 2023 @ iOPTIME
 
 -> Day 1
 . Understanding the basic concept of AI
-. Learning about the fundamentals of Machine Learning
+\n. Learning about the fundamentals of Machine Learning
 . Exploring and learning about Google Colab
 . Exploring and learning about Kaggle
 . Exploring and learning about virtual environment
