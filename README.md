@@ -42,7 +42,9 @@ AI-SUMMER INTERNSHIP 2023 @ iOPTIME
 . Solving exercise problems related to Decision tree
 
 ->Day 8
-. Learning and implementing Support Vector Machines (SVMs)
+Learning and implementing Support Vector Machines (SVMs)
+Learning and implementing Random forests
+solving exercises related to SVMS and Random forests
 
 
 => This repository contains the code, exercises, and progress made during the AI Summer Internship 2023 at iOPTIME. Each day's activities and learnings are documented in separate sections. The code files, exercises, and problem solutions are included to showcase the practical implementation of various machine learning algorithms and techniques. The internship focuses on building a strong foundation in AI and machine learning, covering essential concepts, tools, and hands-on coding exercises. The repository serves as a comprehensive record of the internship journey and a valuable resource for future reference.
