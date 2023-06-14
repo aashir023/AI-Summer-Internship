@@ -28,6 +28,5 @@
                                        Loss vs Epochs plot
 ![pytorch loss plot](https://github.com/aashir023/AI-Summer-Internship/assets/92915317/2d959978-92bf-4142-a94f-d7632b35436a)
 
-Loss vs Epochs plot
 
 
