@@ -27,5 +27,6 @@ optimizer for training the model.
 -  Saved the trained model in two formats: the entire model and the model's state dictionary
 
                                             Loss vs Epochs PLot
+   https://github.com/aashir023/AI-Summer-Internship/blob/main/Day%2012/pytorch%20loss%20plot.png?raw=true
                                             
                                         
