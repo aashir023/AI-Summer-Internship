@@ -1,7 +1,7 @@
 # Setting up a Virtual Environment and Running a Python Program
 
 1. Create a virtual environment using the following command:
- conda create -n "env_name"
+ conda create -n "numpy_nn"
 
 
 2. Install the necessary requirements or dependencies from the requirements.txt file using the command:
@@ -9,11 +9,11 @@
 
 
 3. Activate the virtual environment by running the command:
- conda activate env_name
+ conda activate numpy_nn
 
 
 4. Finally, execute your Python program located in the virtual environment using the command:
- python filename.py
+ python nn.py
 
 
 # Implementing a Neural Network with Numpy on the Cat vs. Non-Cat Dataset
@@ -23,3 +23,10 @@
 - Defined a neural network architecture with an input layer, hidden layer, and output layer using the sigmoid activation function.
 - Implemented the gradient descent algorithm to optimize the network parameters and minimize the cost function.
 - Evaluated the trained model's performance by computing the accuracy on both the train and test sets.
+
+
+                                       Loss vs Epochs plot
+![pytorch loss plot](https://github.com/aashir023/AI-Summer-Internship/assets/92915317/2d959978-92bf-4142-a94f-d7632b35436a)
+
+
+
