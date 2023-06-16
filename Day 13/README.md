@@ -26,3 +26,13 @@ input and output neurons, hidden layers, and activation functions.
 optimizer for training the model.
 -  Trained the neural network for a specified number of epochs and recorded the loss values.
 - Saved the trained model in two formats: the entire model and the model's state dictionary
+
+                                  Loss vs Epoch Plot
+![loss plot](https://github.com/aashir023/AI-Summer-Internship/assets/92915317/7ab704f7-9756-4330-b71c-f0d7a48bc41e)
+
+                                    Confusion Matrix
+![Confusion_matrix](https://github.com/aashir023/AI-Summer-Internship/assets/92915317/23acd88b-f7f4-4b06-ba8f-5efb9c1cff4a)
+
+                                    
+  
+  
